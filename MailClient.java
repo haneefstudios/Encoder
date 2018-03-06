@@ -148,5 +148,6 @@ public class MailClient
 	public static void main(String[] args) {
 		MailClient mc=new MailClient();
 		mc.mailClient();
+		//main method
 	}
 }
